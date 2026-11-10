@@ -1,0 +1,23 @@
+{
+  "origin": "NQZ",
+  "destinations": {
+    "HKT": "Пхукет",
+    "BKK": "Бангкок",
+    "CMB": "Шри-Ланка (Коломбо)",
+    "HRI": "Шри-Ланка (Маттала)",
+    "SYX": "Хайнань (Санья)",
+    "SSH": "Египет (Шарм-эль-Шейх)",
+    "HRG": "Египет (Хургада)",
+    "MLE": "Мальдивы (Мале)"
+  },
+  "departure_from": "2026-12-17",
+  "departure_to": "2026-12-23",
+  "nights_min": 7,
+  "nights_max": 14,
+  "passengers": 2,
+  "budget_per_person_kzt": 200000,
+  "deal_discount_percent": 25,
+  "max_alerts_per_destination": 3,
+  "digest_hour_utc": 4,
+  "currency": "kzt"
+}
